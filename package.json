@@ -1,0 +1,23 @@
+{
+  "name": "capreanuangela1",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manako1/capreanuangela1.git"
+  },
+  "dependencies": { 
+   "capreanuangela1": "1.0.0",
+   "capreanuangela": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manako1/capreanuangela1/issues"
+  },
+  "homepage": "https://github.com/Manako1/capreanuangela1#readme"
+}
